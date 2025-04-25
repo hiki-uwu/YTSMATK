@@ -1,0 +1,7 @@
+Flask
+youtube-comment-downloader
+youtube_transcript_api
+transformers
+torch
+wordcloud
+matplotlib
